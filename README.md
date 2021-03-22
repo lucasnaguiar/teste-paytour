@@ -31,7 +31,7 @@ O projeto foi criado utilizando as seguintes tecnologias:
 - PHP 7.4
 - Mailtrap
 
-É possível ter acesso um demo em http://nornweb.com
+É possível ter acesso a um demo em http://nornweb.com
 
 ### Observações
     - Somente para efeito de teste, os arquivos enviados ficam em um repositório local e público.
