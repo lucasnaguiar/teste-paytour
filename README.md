@@ -31,6 +31,8 @@ O projeto foi criado utilizando as seguintes tecnologias:
 - PHP 7.4
 - Mailtrap
 
+É possível ter acesso um demo em http://nornweb.com
+
 ### Observações
     - Somente para efeito de teste, os arquivos enviados ficam em um repositório local e público.
    
@@ -100,10 +102,7 @@ MAIL_FROM_ADDRESS=um_endereço_de_email
 
 ### Executando testes 
 
-Após parametrizar conforme descrito acima, você pode executar os testes 
-
 ```
 php artisan test
 ```
 
-Também é possível ter acesso um demo do formulário em http://nornweb.com
